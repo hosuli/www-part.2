@@ -1,7 +1,7 @@
 {
   "name": "node-js",
   "version": "1.0.0",
-  "description": "csc_project:2003461",
+  "description": "csc_project:project_2003461",
   "main": "src/index.js",
   "scripts": {
     "start": "./node_modules/parcel-bundler/bin/cli.js index.html --port 8080","build": "parcel build index.html"
