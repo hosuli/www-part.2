@@ -4,7 +4,7 @@
   "description": "csc_project:project_2003461",
   "main": "src/index.js",
   "scripts": {
-    "start": "./node_modules/parcel-bundler/bin/cli.js index.html --port 8080","build": "parcel build index.html"
+    "start": "./node_modules/parcel-bundler/bin/cli.js src/index.html --port 8080","build": "parcel build index.html"
   },
   "dependencies": {
     "express": "4.16.4"
